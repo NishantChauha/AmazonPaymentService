@@ -1,6 +1,4 @@
 
-Here’s a sample README.md file for your GitHub repository that describes the project and provides details about the issue you're solving:
-
 
 # Amazon Payment Services - Payment Link Integration
 
